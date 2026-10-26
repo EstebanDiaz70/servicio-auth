@@ -1,0 +1,14 @@
+{
+  "name": "servicio-web-login",
+  "version": "1.0.0",
+  "description": "Servicio web de registro e inicio de sesión (GA7-220501096-AA5-EV01)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
